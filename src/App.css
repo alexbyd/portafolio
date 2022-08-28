@@ -39,8 +39,13 @@ button{
 
 .nombre-principal{border-bottom: solid darkgray 1px; background-color: white; margin: 2em;}
 
-.nombre{
-  border-bottom: solid black 0.002em; max-width: max-content;}
+.nombre a {
+  cursor: pointer;
+  color: black;
+  text-decoration: none;
+  border-bottom: solid black 1.5px;
+  max-width: max-content;
+}
 .contenedor-foto{
   display: flex;
   /* align-items: flex-start; */

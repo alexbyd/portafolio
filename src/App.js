@@ -16,7 +16,7 @@ function App() {
 
       <div className='nombre-principal'>
         <div className='nombre'>
-          <h2>@alexbyd94</h2>
+          <h2><a href={("https://github.com/alexbyd")}>@alexbyd</a></h2>
         </div>
       </div>
 
