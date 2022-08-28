@@ -29,7 +29,7 @@ function App() {
            src={require('./imagenes/alexD-r1.png')}
            alt='alex baena'
       />
-
+------
     </div>
 
     </div>
