@@ -1,6 +1,6 @@
 
 import './App.css';
-import Descripcion from "./componentes/Descripcion";
+import Descripcion from "./components/Descripcion";
 import React from "react";
 
 function App() {
@@ -26,7 +26,7 @@ function App() {
       />
     <div className='contenedor-foto'>
       <img className='foto-alex'
-           src={require('./imagenes/alexD-r1.png')}
+           src={require('./images/alexD-r1.png')}
            alt='alex baena'
       />
 ------

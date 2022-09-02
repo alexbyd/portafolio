@@ -1,5 +1,5 @@
 import React from "react";
-import '../estilos/descripcion.css';
+import '../styles/descripcion.css';
 
 function Descripcion(props) {
   return(
