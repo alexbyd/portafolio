@@ -6,9 +6,9 @@ html, body {
 }
 
 nav{
+  border-bottom: 1px solid #eee;
   width: 100%;
   padding-bottom: 5px;
-  border-bottom: solid darkgray 1px;
 }
 
 .seguir h1{
@@ -34,13 +34,17 @@ nav{
   margin-top: 2em;
 }
 
-.nombre-principal{border-bottom: solid darkgray 1px; background-color: white; margin: 2em;}
+.nombre-principal{
+  border-bottom: 1px solid #eee;
+  background-color: white;
+  margin: 2em;
+}
 
 .nombre a {
+  border-bottom: 1px solid rgba(0,0,0,.44);
   cursor: pointer;
   color: black;
   text-decoration: none;
-  border-bottom: solid black 1.5px;
   max-width: max-content;
 }
 .contenedor-foto{
