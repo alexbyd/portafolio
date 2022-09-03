@@ -11,14 +11,11 @@ nav{
   border-bottom: solid darkgray 1px;
 }
 
-button{
-  cursor: pointer;
-}
-
-.seguir{
-  margin-top: 2em;
+.seguir h1{
+  color: #012e45;
+  font-weight: 900;
+  margin-top: 1rem;
   display: flex;
-  font-size: initial;
   background-color: white;
   /* flex-direction: row-reverse; */
   justify-content: center;
@@ -52,6 +49,5 @@ button{
   justify-content: center;
 }
 .foto-alex{
-  opacity: 0.95;
   z-index: 1;
 }
