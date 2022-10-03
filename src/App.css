@@ -13,11 +13,9 @@ nav{
 
 .seguir h1{
   color: #012e45;
-  font-weight: 900;
   margin-top: 1rem;
   display: flex;
   background-color: white;
-  /* flex-direction: row-reverse; */
   justify-content: center;
   align-content: center;
   align-items: center;
