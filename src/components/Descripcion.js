@@ -1,5 +1,6 @@
 import React from "react";
 import '../styles/descripcion.css';
+import '../App.css';
 
 function Descripcion(props) {
   return(
@@ -14,6 +15,17 @@ function Descripcion(props) {
           componente mediante un props</li>
         </ul>
       </div>
+
+
+
+        <div className='contenedor-foto'>
+          <div className='paraLaFoto'>
+            <img className='foto-alex'
+                 src={require('../images/alexD-r1.png')}
+                 alt='alex baena'
+            />
+          </div>
+        </div>
 
       </div>
   );

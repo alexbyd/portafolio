@@ -45,11 +45,13 @@ nav{
   text-decoration: none;
   max-width: max-content;
 }
-.contenedor-foto{
+ .contenedor-foto{
+  width:100%;
   display: flex;
   /* align-items: flex-start; */
   justify-content: center;
 }
-.foto-alex{
+.paraLaFoto .foto-alex{
+  width:100%;
   z-index: 1;
 }
