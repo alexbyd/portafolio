@@ -1,5 +1,5 @@
-
 import './App.css';
+import './small.css';
 import Descripcion from "./components/Descripcion";
 import React from "react";
 
