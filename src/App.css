@@ -6,16 +6,16 @@ html, body {
 }
 
 nav{
+  font-size:2em;
   border-bottom: 1px solid #eee;
   width: 100%;
   padding-bottom: 5px;
 }
 
-.seguir h1{
+.seguir {
   color: #012e45;
   margin-top: 1rem;
   display: flex;
-  background-color: white;
   justify-content: center;
   align-content: center;
   align-items: center;

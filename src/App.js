@@ -9,7 +9,7 @@ function App() {
 
       <nav>
         <div className='seguir'>
-          <h1 style={{ fontSize: 'xxx-large' }}>Alex Daniel Baena Yepez</h1>
+          <h1>Alex Daniel Baena Yepez</h1>
         </div>
       </nav>
 

@@ -1,11 +1,21 @@
 @media only screen and (max-width: 630px) {
   body{
     width: 100%;
-    color: red;
+  }
+
+  .nombre-principal{
+    display: none;
   }
 
   .lista{
     margin:0  !important;
+  }
+
+  nav {font-size: unset;}
+  ul{
+    margin: 0.5em;
+    padding: 0.25em;
+    list-style: none;
   }
 
   .division{
