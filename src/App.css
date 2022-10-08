@@ -12,10 +12,13 @@ nav{
   padding-bottom: 5px;
 }
 /*
+Utilice fontjoy.com para obtener los tipos de letras que mas me gustara para la pagina
+
 font-family: 'Cutive Mono', monospace;
 font-family: 'Merriweather Sans', sans-serif;
 font-family: 'Roboto', sans-serif;
 */
+
 .seguir {
   font-family: 'Cutive Mono', monospace;
   letter-spacing: -4.5px;
@@ -45,7 +48,6 @@ font-family: 'Roboto', sans-serif;
 .nombre h2 {
   font-family: 'Roboto', sans-serif;
   border-bottom: 1px solid rgba(0,0,0,.44);
-  cursor: pointer;
   color: black;
   text-decoration: none;
   max-width: max-content;

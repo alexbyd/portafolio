@@ -7,7 +7,7 @@ import '../small.css';
 function Descripcion(props) {
   return(
       <div className='lista'>
-        <h3 className='subtitulo'>{props.titulo}</h3>
+        <h4 className='subtitulo'>{props.titulo}</h4>
         <div className='lista-detalles'>
         <ul>
           <li>creador de el monstruo de las galletas</li>
