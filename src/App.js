@@ -24,8 +24,6 @@ function App() {
       titulo='Sobre mi'
   />
 </div>
-
-
     </div>
   );
 }
