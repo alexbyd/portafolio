@@ -9,14 +9,14 @@ function App() {
 
       <nav>
         <div className='seguir'>
-          <h1>Alex Daniel Baena Yepez</h1>
+          <h1>@alexbyd</h1>
         </div>
       </nav>
 
 <div className='division'>
       <div className='nombre-principal'>
         <div className='nombre'>
-          <h2>@alexbyd{/* <!--poner aqui los iconos para el tamaño small --> */}</h2>
+          <h2>Alex Daniel Baena Yepez{/* <!--poner aqui los iconos para el tamaño small --> */}</h2>
         </div>
       </div>
 
