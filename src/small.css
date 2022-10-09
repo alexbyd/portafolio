@@ -16,11 +16,11 @@
   nav {font-size: unset;}
   p{
     margin: 0.5em !important;
-    padding: 1.25em !important;
+    padding: 0.5em !important;
   }
   ul {
     margin: 0.5em;
-    padding: 1.25em;
+    padding: 0.5em;
     /*list-style: none;*/
   }
 
