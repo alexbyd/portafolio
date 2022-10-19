@@ -21,7 +21,7 @@ function Descripcion(props) {
         <div className='lista-detalles'>
         <ul>
           <li>- Actualmente estoy trabajando en...  {/* este es el color para los enlaces  --> #1C9963 */}</li>
-          <li>- Actualmente estoy aprendiendo... como funciona fetch </li>
+          <li>- Actualmente estoy aprendiendo...  </li>
           <li>- Busco colaborar en...FreeCodeCamp mediante Hacktoberfest</li>
           <li>- Pregúntame sobre...</li>
           <li>- Cómo contactarme: ...</li>
