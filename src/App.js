@@ -9,7 +9,7 @@ function App() {
 
       <nav>
         <div className='seguir'>
-          <h1>@alexbyd</h1>
+          <h1>@alexbyd94</h1>
         </div>
       </nav>
 
