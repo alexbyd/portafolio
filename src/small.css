@@ -1,0 +1,32 @@
+@media only screen and (max-width: 630px) {
+  body{
+    width: 100%;
+  }
+
+  h1{font-size: 2em}
+
+  .nombre-principal{
+    display: none;
+  }
+
+  .lista .lista-detalles{
+    margin:0  !important;
+  }
+
+  nav {font-size: unset;}
+
+  ul {
+    margin: 0.5em;
+    padding: 1.25em;
+    /*list-style: none;*/
+  }
+
+h4{
+  margin: 0.5em !important;
+  padding: 1.25em !important;
+}
+  .division{
+    margin:0;
+  }
+
+}
