@@ -11,7 +11,7 @@ function App() {
         <div className='seguir'>
 <<<<<<< HEAD
           <h1>Alex Daniel Baena Yepez</h1>
-=======
+====:q===
           <h1>@alexbyd94</h1>
 >>>>>>> 5dcd5
         </div>
